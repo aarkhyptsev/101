@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 require('classes/Posts.php');
-/* I testy Git */
+/* I tasty Git */
 
 
 use App\Posts;
